@@ -1,4 +1,4 @@
 /*declarando "Olá mundo" */
 
-var mensagem = "olá mundo!"
-alert(mensagem)
+var mensagem = "olá mundo!";
+alert(mensagem);
